@@ -1,0 +1,397 @@
+
+
+Product name,Product price,Product description,Brand
+
+Laptop,799,"High-performance laptop with Intel Core i7 processor, 16GB RAM, and 512GB SSD storage.",Dell
+
+
+Smartwatch,249,"Fitness smartwatch with heart rate monitoring, GPS tracking, and 7-day battery life.",Fitbit
+Headphones,149,"Noise-cancelling Bluetooth headphones with crisp sound quality and 30-hour playtime.",Bose
+Camera,499,"DSLR camera with 24MP sensor, interchangeable lenses, and 4K video recording.",Canon
+Printer,119,"Compact wireless printer with AirPrint, auto-duplex printing, and high-yield ink cartridges.",HP
+
+Speakers,299,"Powerful Bluetooth speakers with 360-degree sound and up to 20 hours of playtime.",JBL
+Gaming Console,499,"High-performance gaming console with 8K graphics, ultra-fast SSD, and next-gen controllers.",Microsoft
+Laptop,849,"High-performance laptop with Intel Core i7 processor, 16GB RAM, and 1TB SSD storage.",Asus
+
+
+Smartwatch,199,"Fitness smartwatch with GPS, heart rate monitoring, and 5 day battery life.",Garmin  
+Headphones,99,"Wireless earbuds with active noise cancellation and wireless charging case.",Anker
+Camera,399,"Mirrorless camera with 20MP sensor, interchangeable lenses, and 4K video.",Sony 
+Printer,89,"Compact inkjet printer with wireless printing, auto 2-sided printing and scanner.",Canon
+
+Speakers,249,"Bluetooth speaker with 360 degree surround sound, 20-hour battery life.",Bose
+Gaming Console,599,"High performance gaming console with 8K graphics, SSD storage and advanced immersive controllers.",PlayStation
+Laptop,899,"High-performance laptop with Intel Core i9 processor, 32GB RAM, 1TB SSD storage.",MSI
+
+
+Smartwatch,279,"Advanced smartwatch with built-in GPS, NFC, heart rate monitoring and 7 day battery life.",Garmin
+Headphones,169,"Over-ear noise cancelling wireless headphones with 40mm drivers and 30 hour battery life.",Sony
+Camera,629,"DSLR camera with full-frame 24MP sensor, 4K video, touchscreen LCD and wireless connectivity.",Canon 
+Printer,139,"All-in-one wireless printer with print, copy, scan functions and auto document feeder.",Epson
+
+Speakers,399,"Premium wireless speakers with 360 degree sound, multi-room audio and voice assistant support.",Sonos
+Gaming Console,699,"Cutting edge gaming console with ray tracing, 4K gaming at 120 fps, ultra high speed SSD.",Microsoft
+
+
+
+Smartwatch,399,"Luxury smartwatch with sapphire crystal, stainless steel case, ECG, fall detection and LTE.",Apple
+Headphones,279,"Premium over-ear headphones with active noise cancellation, 40mm drivers, 30 hours battery life.",Bose  
+Camera,1299,"Pro full-frame mirrorless camera with 45MP sensor, 8K video, in-body stabilization and dual card slots.",Nikon
+Printer,199,"Business inkjet printer with auto duplex printing, 35ppm speed, wireless printing and 500 sheet capacity.",Brother 
+
+Speakers,599,"High-end wireless speaker system with 3D audio, Chromecast built-in, multi-room streaming, voice control.",Google
+Gaming Console,799,"Ultra high speed gaming console with up to 8K 120fps gaming, hardware-accelerated ray tracing, 1TB custom SSD.",Microsoft
+
+
+
+Smartwatch,499,"Rugged smartwatch with GPS, Galileo, heart rate monitor, pulse ox sensor, 32GB storage, LTE.",Garmin
+Headphones,99,"True wireless earbuds with active noise cancelling, wireless charging case and touch controls.",Soundcore
+Camera,799,"Mirrorless camera with 24MP sensor, 4K video, in-body stabilization, weather sealing, dual UHS-II slots.",Fujifilm
+Printer,249,"Ink tank wireless printer with auto duplex printing, high capacity ink tanks and scanner with ADF.",Epson
+
+Speakers,449,"Smart wireless speaker with Wi-Fi, Bluetooth, Alexa built-in, 360 audio and stereo pairing.",Amazon
+Gaming Console,499,"Mid-range gaming console with up to 1440p 120fps gaming, 512GB SSD, spatial audio support.",Microsoft
+
+
+
+Smartwatch,149,"Affordable smartwatch with heart rate monitor, activity tracking, smartphone notifications and 5ATM water resistance.",Amazfit 
+Headphones,59,"In-ear wireless earbuds with Bluetooth 5.0, touch controls, EQ modes, IPX4 water resistance.",SoundPeats
+Camera,399,"Entry-level DSLR with 24MP APS-C sensor, 1080p video recording, built-in wifi and vari-angle LCD screen.",Nikon
+Printer,79,"Compact wireless printer for photos and documents with auto duplex printing and mobile printing support.",Canon
+
+Speakers,99,"Portable Bluetooth speaker with 12-hour battery life, waterproof design, speakerphone and USB-C charging.",JBL 
+Gaming Console,299,"Entry-level gaming console with up to 1080p 60fps gaming, 512GB expandable storage, dual-sense controller.",Sony
+
+
+
+Smartwatch,99,"Fitness smartwatch with heart rate monitor, sleep tracking, activity modes, 10+ days battery life.",Amazfit
+Headphones,29,"Wireless earbuds with Bluetooth 5.0, HD sound, touch controls, USB-C charging.",Mpow
+Camera,279,"Basic mirrorless camera with 24MP sensor, 4K video, flip up LCD screen, in-body stabilization.",Panasonic  
+Printer,59,"Compact all-in-one printer with print, copy and scan functions plus auto-duplex printing.",HP
+
+Speakers,59,"Ultra-portable wireless speaker with Bluetooth, 12-hour battery life and speakerphone.",Anker
+Gaming Console,199,"Entry level gaming console with up to 1080p gaming, 1TB hard drive, dualshock 4 controller.",Sony
+
+
+
+Smartwatch,69,"Basic fitness tracker with heart rate monitor, sleep tracking, activity modes, Ip68 water resistance.",Xiaomi
+Headphones,19,"Wired earbuds with microphone, volume control, tangle-free cable.",Panasonic
+
+Printer,39,"Compact wireless printer for photos and documents with mobile and cloud printing.",HP
+
+Speakers,24,"Mini Bluetooth speaker with 6 hours playtime, speakerphone function.",Anker
+Gaming Console,149,"Retro plug and play console with built-in games, two wired controllers.",AtGames
+
+
+
+Smartwatch,39,"Basic fitness band with step counting, heart rate monitor, calorie tracking.",Xiaomi
+Headphones,9,"Earbuds with tangle resistant cable, in-line microphone, 3.5mm connector.",Panasonic
+
+Printer,29,"Mini wireless photo printer for smartphones with adhesive-backed print paper.",Polaroid
+
+Speakers,14,"Pocket-sized Bluetooth speaker with up to 5 hours playtime, microphone for calls.",Tribit
+
+Laptop,799,"High-performance laptop with Intel Core i7 processor, 16GB RAM, and 512GB SSD storage.",Dell
+
+
+Smartwatch,249,"Fitness smartwatch with heart rate monitoring, GPS tracking, and 7-day battery life.",Fitbit
+Headphones,149,"Noise-cancelling Bluetooth headphones with crisp sound quality and 30-hour playtime.",Bose
+Camera,499,"DSLR camera with 24MP sensor, interchangeable lenses, and 4K video recording.",Canon
+Printer,119,"Compact wireless printer with AirPrint, auto-duplex printing, and high-yield ink cartridges.",HP
+
+Speakers,299,"Powerful Bluetooth speakers with 360-degree sound and up to 20 hours of playtime.",JBL
+Gaming Console,499,"High-performance gaming console with 8K graphics, ultra-fast SSD, and next-gen controllers.",Microsoft
+Laptop,849,"High-performance laptop with Intel Core i7 processor, 16GB RAM, and 1TB SSD storage.",Asus
+
+
+Smartwatch,199,"Fitness smartwatch with GPS, heart rate monitoring, and 5 day battery life.",Garmin  
+Headphones,99,"Wireless earbuds with active noise cancellation and wireless charging case.",Anker
+Camera,399,"Mirrorless camera with 20MP sensor, interchangeable lenses, and 4K video.",Sony 
+Printer,89,"Compact inkjet printer with wireless printing, auto 2-sided printing and scanner.",Canon
+
+Speakers,249,"Bluetooth speaker with 360 degree surround sound, 20-hour battery life.",Bose
+Gaming Console,599,"High performance gaming console with 8K graphics, SSD storage and advanced immersive controllers.",PlayStation
+Laptop,899,"High-performance laptop with Intel Core i9 processor, 32GB RAM, 1TB SSD storage.",MSI
+
+
+Smartwatch,279,"Advanced smartwatch with built-in GPS, NFC, heart rate monitoring and 7 day battery life.",Garmin
+Headphones,169,"Over-ear noise cancelling wireless headphones with 40mm drivers and 30 hour battery life.",Sony
+Camera,629,"DSLR camera with full-frame 24MP sensor, 4K video, touchscreen LCD and wireless connectivity.",Canon 
+Printer,139,"All-in-one wireless printer with print, copy, scan functions and auto document feeder.",Epson
+
+Speakers,399,"Premium wireless speakers with 360 degree sound, multi-room audio and voice assistant support.",Sonos
+Gaming Console,699,"Cutting edge gaming console with ray tracing, 4K gaming at 120 fps, ultra high speed SSD.",Microsoft
+
+
+
+Smartwatch,399,"Luxury smartwatch with sapphire crystal, stainless steel case, ECG, fall detection and LTE.",Apple
+Headphones,279,"Premium over-ear headphones with active noise cancellation, 40mm drivers, 30 hours battery life.",Bose  
+Camera,1299,"Pro full-frame mirrorless camera with 45MP sensor, 8K video, in-body stabilization and dual card slots.",Nikon
+Printer,199,"Business inkjet printer with auto duplex printing, 35ppm speed, wireless printing and 500 sheet capacity.",Brother 
+
+Speakers,599,"High-end wireless speaker system with 3D audio, Chromecast built-in, multi-room streaming, voice control.",Google
+Gaming Console,799,"Ultra high speed gaming console with up to 8K 120fps gaming, hardware-accelerated ray tracing, 1TB custom SSD.",Microsoft
+
+
+
+Smartwatch,499,"Rugged smartwatch with GPS, Galileo, heart rate monitor, pulse ox sensor, 32GB storage, LTE.",Garmin
+Headphones,99,"True wireless earbuds with active noise cancelling, wireless charging case and touch controls.",Soundcore
+Camera,799,"Mirrorless camera with 24MP sensor, 4K video, in-body stabilization, weather sealing, dual UHS-II slots.",Fujifilm
+Printer,249,"Ink tank wireless printer with auto duplex printing, high capacity ink tanks and scanner with ADF.",Epson
+
+Speakers,449,"Smart wireless speaker with Wi-Fi, Bluetooth, Alexa built-in, 360 audio and stereo pairing.",Amazon
+Gaming Console,499,"Mid-range gaming console with up to 1440p 120fps gaming, 512GB SSD, spatial audio support.",Microsoft
+
+
+
+Smartwatch,149,"Affordable smartwatch with heart rate monitor, activity tracking, smartphone notifications and 5ATM water resistance.",Amazfit 
+Headphones,59,"In-ear wireless earbuds with Bluetooth 5.0, touch controls, EQ modes, IPX4 water resistance.",SoundPeats
+Camera,399,"Entry-level DSLR with 24MP APS-C sensor, 1080p video recording, built-in wifi and vari-angle LCD screen.",Nikon
+Printer,79,"Compact wireless printer for photos and documents with auto duplex printing and mobile printing support.",Canon
+
+Speakers,99,"Portable Bluetooth speaker with 12-hour battery life, waterproof design, speakerphone and USB-C charging.",JBL 
+Gaming Console,299,"Entry-level gaming console with up to 1080p 60fps gaming, 512GB expandable storage, dual-sense controller.",Sony
+
+
+
+Smartwatch,99,"Fitness smartwatch with heart rate monitor, sleep tracking, activity modes, 10+ days battery life.",Amazfit
+Headphones,29,"Wireless earbuds with Bluetooth 5.0, HD sound, touch controls, USB-C charging.",Mpow
+Camera,279,"Basic mirrorless camera with 24MP sensor, 4K video, flip up LCD screen, in-body stabilization.",Panasonic  
+Printer,59,"Compact all-in-one printer with print, copy and scan functions plus auto-duplex printing.",HP
+
+Speakers,59,"Ultra-portable wireless speaker with Bluetooth, 12-hour battery life and speakerphone.",Anker
+Gaming Console,199,"Entry level gaming console with up to 1080p gaming, 1TB hard drive, dualshock 4 controller.",Sony
+
+
+
+Smartwatch,69,"Basic fitness tracker with heart rate monitor, sleep tracking, activity modes, Ip68 water resistance.",Xiaomi
+Headphones,19,"Wired earbuds with microphone, volume control, tangle-free cable.",Panasonic
+
+Printer,39,"Compact wireless printer for photos and documents with mobile and cloud printing.",HP
+
+Speakers,24,"Mini Bluetooth speaker with 6 hours playtime, speakerphone function.",Anker
+Gaming Console,149,"Retro plug and play console with built-in games, two wired controllers.",AtGames
+
+
+
+Smartwatch,39,"Basic fitness band with step counting, heart rate monitor, calorie tracking.",Xiaomi
+Headphones,9,"Earbuds with tangle resistant cable, in-line microphone, 3.5mm connector.",Panasonic
+
+Printer,29,"Mini wireless photo printer for smartphones with adhesive-backed print paper.",Polaroid
+
+Speakers,14,"Pocket-sized Bluetooth speaker with up to 5 hours playtime, microphone for calls.",Tribit
+
+Laptop,799,"High-performance laptop with Intel Core i7 processor, 16GB RAM, and 512GB SSD storage.",Dell
+
+
+Smartwatch,249,"Fitness smartwatch with heart rate monitoring, GPS tracking, and 7-day battery life.",Fitbit
+Headphones,149,"Noise-cancelling Bluetooth headphones with crisp sound quality and 30-hour playtime.",Bose
+Camera,499,"DSLR camera with 24MP sensor, interchangeable lenses, and 4K video recording.",Canon
+Printer,119,"Compact wireless printer with AirPrint, auto-duplex printing, and high-yield ink cartridges.",HP
+
+Speakers,299,"Powerful Bluetooth speakers with 360-degree sound and up to 20 hours of playtime.",JBL
+Gaming Console,499,"High-performance gaming console with 8K graphics, ultra-fast SSD, and next-gen controllers.",Microsoft
+Laptop,849,"High-performance laptop with Intel Core i7 processor, 16GB RAM, and 1TB SSD storage.",Asus
+
+
+Smartwatch,199,"Fitness smartwatch with GPS, heart rate monitoring, and 5 day battery life.",Garmin  
+Headphones,99,"Wireless earbuds with active noise cancellation and wireless charging case.",Anker
+Camera,399,"Mirrorless camera with 20MP sensor, interchangeable lenses, and 4K video.",Sony 
+Printer,89,"Compact inkjet printer with wireless printing, auto 2-sided printing and scanner.",Canon
+
+Speakers,249,"Bluetooth speaker with 360 degree surround sound, 20-hour battery life.",Bose
+Gaming Console,599,"High performance gaming console with 8K graphics, SSD storage and advanced immersive controllers.",PlayStation
+Laptop,899,"High-performance laptop with Intel Core i9 processor, 32GB RAM, 1TB SSD storage.",MSI
+
+
+Smartwatch,279,"Advanced smartwatch with built-in GPS, NFC, heart rate monitoring and 7 day battery life.",Garmin
+Headphones,169,"Over-ear noise cancelling wireless headphones with 40mm drivers and 30 hour battery life.",Sony
+Camera,629,"DSLR camera with full-frame 24MP sensor, 4K video, touchscreen LCD and wireless connectivity.",Canon 
+Printer,139,"All-in-one wireless printer with print, copy, scan functions and auto document feeder.",Epson
+
+Speakers,399,"Premium wireless speakers with 360 degree sound, multi-room audio and voice assistant support.",Sonos
+Gaming Console,699,"Cutting edge gaming console with ray tracing, 4K gaming at 120 fps, ultra high speed SSD.",Microsoft
+
+
+
+Smartwatch,399,"Luxury smartwatch with sapphire crystal, stainless steel case, ECG, fall detection and LTE.",Apple
+Headphones,279,"Premium over-ear headphones with active noise cancellation, 40mm drivers, 30 hours battery life.",Bose  
+Camera,1299,"Pro full-frame mirrorless camera with 45MP sensor, 8K video, in-body stabilization and dual card slots.",Nikon
+Printer,199,"Business inkjet printer with auto duplex printing, 35ppm speed, wireless printing and 500 sheet capacity.",Brother
+
+Speakers,599,"High-end wireless speaker system with 3D audio, Chromecast built-in, multi-room streaming, voice control.",Google
+Gaming Console,799,"Ultra high speed gaming console with up to 8K 120fps gaming, hardware-accelerated ray tracing, 1TB custom SSD.",Microsoft
+
+
+
+Smartwatch,499,"Rugged smartwatch with GPS, Galileo, heart rate monitor, pulse ox sensor, 32GB storage, LTE.",Garmin 
+
+
+
+Smartwatch,249,"Rugged GPS sport watch with color touchscreen, heart rate sensor, 3 day battery life.",Garmin Instinct
+Headphones,149,"Premium noise cancelling over-ear headphones with 40mm drivers, 30hr battery life.",Sony WH-1000XM4
+Camera,499,"Advanced mirrorless camera with 24.2MP sensor, 4K video recording, weather sealing.",Nikon Z6
+Printer,119,"Compact photo printer with wireless connectivity, auto print box and glossy photo paper.",Kodak Dock Plus
+
+Speakers,299,"Smart speaker with Wi-Fi, Bluetooth, Alexa voice control, 360 degree sound and bass radiator.",Amazon Echo Studio  
+Gaming Console,499,"Disc-based games console with up to 8K resolution, 3D immersive audio, ultra fast SSD.",Xbox Series X
+
+
+
+Smartwatch,199,"Classic round smartwatch with heart rate monitor, sleep tracking, 5 day battery life.",Fitbit Versa 3 
+Headphones,99,"True wireless earbuds with active noise cancellation, wireless charging case.",Apple AirPods Pro
+Camera,399,"DSLR camera with 24.2MP sensor, 45 point autofocus, vari-angle touchscreen LCD.",Canon EOS Rebel T8i
+Printer,89,"All-in-one printer with auto-duplex printing, scanner, color touchscreen interface.",HP OfficeJet Pro 9015
+
+Speakers,249,"Weatherproof outdoor Bluetooth speaker with 20 hour battery life, LED light strips.",JBL Charge 5
+Gaming Console,599,"Motion controlled VR gaming system with headset, controllers, room scale tracking.",Oculus Quest 2
+
+
+
+Smartwatch,279,"Advanced running watch with GPS, wrist-based heart rate, VO2 max estimation, training status.",Garmin Forerunner 245
+Headphones,169,"Premium wireless over-ear headphones with noise cancelling, transparency mode, spatial audio.",Apple AirPods Max 
+Camera,629,"Full-frame mirrorless camera with 61MP sensor, 8K video recording, in-body image stabilization.",Sony A7R IV
+Printer,139,"Wireless all-in-one inkjet printer with auto-duplex printing, 35ppm print speed, ADF scanner.",Brother MFC-J995DW XL 
+
+Speakers,399,"Wireless bookshelf speakers with HD streaming over WiFi, AirPlay 2, Chromecast, and Alexa.",Sonos One SL
+Gaming Console,699,"4K gaming console with ultra HD Blu-ray, 120 fps, 8K upscaling, 802.11ax Wi-Fi 6.",PlayStation 5
+
+Smartphone,799,"Dual screen foldable smartphone with dual AMOLED displays, Snapdragon 888, 360 hinge.",Microsoft Surface Duo 2
+Tablet,529,"Android tablet with integrated kickstand case, 128GB storage, 13MP rotatable camera.",Lenovo Yoga Duet 7i
+Smartwatch,399,"Rugged adventure smartwatch with onboard GPS, altimeter, barometer, wrist-based heart rate.",Garmin Fenix 6X Pro Solar  
+Headphones,279,"Wireless over-ear headphones with active noise cancellation, transparency mode, 40hr battery life.",Bose Headphones 700
+Camera,1299,"Full-frame pro DSLR with 45.4MP sensor, 4K 60p video, 7 fps continuous shooting, eye detection AF.",Nikon D850
+Printer,199,"Business inkjet printer with auto 2-sided printing, two 650-sheet paper trays, fax capability.",HP OfficeJet Pro 8025
+
+Speakers,599,"Smart speaker with HD multi-room streaming, Wi-Fi, Bluetooth, Alexa, and high-res audio.",Sonos Five
+Gaming Console,799,"Next-gen gaming console with up to 8K resolution, ray tracing, 4K Blu-ray, ultra fast SSD.",Xbox Series X
+
+
+Tablet,629,"Detachable 2-in-1 tablet with 3000 x 2000 IPS display,Intel Core i5 CPU, keyboard with touchpad.",Microsoft Surface Pro 7 
+Smartwatch,499,"Rugged GPS smartwatch with full color TOPO maps, Expedition mode, 26 day battery life.",Garmin Enduro
+Headphones,99,"Wireless earbuds with active noise cancellation, wireless charging case, IPX4 water resistance.",Soundcore Life P3
+Camera,799,"APS-C mirrorless camera with 26.1MP sensor, 5-axis in-body image stabilization, dual SD card slots.",Fujifilm X-T4
+Printer,249,"Wireless all-in-one inkjet printer with auto duplex printing, ADF scanner, fax, photo printing.",Epson EcoTank ET-5850
+
+Speakers,449,"Smart speaker with Wi-Fi, Bluetooth, 360 degree sound, multi-room streaming, Alexa built-in.",Amazon Echo Studio
+Gaming Console,499,"Next generation gaming console with 4K gaming at 120fps, 8K support, 512GB NVMe SSD.",Xbox Series S
+
+
+
+
+Smartwatch,249,"Rugged GPS sport watch with color touchscreen, heart rate sensor, 3 day battery life.",Garmin Instinct
+Headphones,149,"Premium noise cancelling over-ear headphones with 40mm drivers, 30hr battery life.",Sony WH-1000XM4
+Camera,499,"Advanced mirrorless camera with 24.2MP sensor, 4K video recording, weather sealing.",Nikon Z6
+Printer,119,"Compact photo printer with wireless connectivity, auto print box and glossy photo paper.",Kodak Dock Plus
+
+Speakers,299,"Smart speaker with Wi-Fi, Bluetooth, Alexa voice control, 360 degree sound and bass radiator.",Amazon Echo Studio
+Gaming Console,499,"Disc-based games console with up to 8K resolution, 3D immersive audio, ultra fast SSD.",Xbox Series X 
+
+
+
+Smartwatch,199,"Classic round smartwatch with heart rate monitor, sleep tracking, 5 day battery life.",Fitbit Versa 3
+Headphones,99,"True wireless earbuds with active noise cancellation, wireless charging case.",Apple AirPods Pro
+Camera,399,"DSLR camera with 24.2MP sensor, 45 point autofocus, vari-angle touchscreen LCD.",Canon EOS Rebel T8i 
+Printer,89,"All-in-one printer with auto-duplex printing, scanner, color touchscreen interface.",HP OfficeJet Pro 9015
+
+Speakers,249,"Weatherproof outdoor Bluetooth speaker with 20 hour battery life, LED light strips.",JBL Charge 5 
+Gaming Console,599,"Motion controlled VR gaming system with headset, controllers, room scale tracking.",Oculus Quest 2
+
+
+
+Smartwatch,279,"Advanced running watch with GPS, wrist-based heart rate, VO2 max estimation, training status.",Garmin Forerunner 245
+Headphones,169,"Premium wireless over-ear headphones with noise cancelling, transparency mode, spatial audio.",Apple AirPods Max
+Camera,629,"Full-frame mirrorless camera with 61MP sensor, 8K video recording, in-body image stabilization.",Sony A7R IV
+Printer,139,"Wireless all-in-one inkjet printer with auto-duplex printing, 35ppm print speed, ADF scanner.",Brother MFC-J995DW XL
+
+Speakers,399,"Wireless bookshelf speakers with HD streaming over WiFi, AirPlay 2, Chromecast, and Alexa.",Sonos One SL
+Gaming Console,699,"4K gaming console with ultra HD Blu-ray, 120 fps, 8K upscaling, 802.11ax Wi-Fi 6.",PlayStation 5
+
+Smartphone,799,"Dual screen foldable smartphone with dual AMOLED displays, Snapdragon 888, 360 hinge.",Microsoft Surface Duo 2
+Tablet,529,"Android tablet with integrated kickstand case, 128GB storage, 13MP rotatable camera.",Lenovo Yoga Duet 7i 
+Smartwatch,399,"Rugged adventure smartwatch with onboard GPS, altimeter, barometer, wrist-based heart rate.",Garmin Fenix 6X Pro Solar
+Headphones,279,"Wireless over-ear headphones with active noise cancellation, transparency mode, 40hr battery life.",Bose Headphones 700
+Camera,1299,"Full-frame pro DSLR with 45.4MP sensor, 4K 60p video, 7 fps continuous shooting, eye detection AF.",Nikon D850
+Printer,199,"Business inkjet printer with auto 2-sided printing, two 650-sheet paper trays, fax capability.",HP OfficeJet Pro 8025
+
+Speakers,599,"Smart speaker with HD multi-room streaming, Wi-Fi, Bluetooth, Alexa, and high-res audio.",Sonos Five  
+Gaming Console,799,"Next-gen gaming console with up to 8K resolution, ray tracing, 4K Blu-ray, ultra fast SSD.",Xbox Series X
+
+
+Tablet,629,"Detachable 2-in-1 tablet with 3000 x 2000 IPS display,Intel Core i5 CPU, keyboard with touchpad.",Microsoft Surface Pro 7
+Smartwatch,499,"Rugged GPS smartwatch with full color TOPO maps, Expedition mode, 26 day battery life.",Garmin Enduro
+Headphones,99,"Wireless earbuds with active noise cancellation, wireless charging case, IPX4 water resistance.",Soundcore Life P3  
+Camera,799,"APS-C mirrorless camera with 26.1MP sensor, 5-axis in-body image stabilization, dual SD card slots.",Fujifilm X-T4
+Printer,249,"Wireless all-in-one inkjet printer with auto duplex printing, ADF scanner, fax, photo printing.",Epson EcoTank ET-5850 
+
+Speakers,449,"Smart speaker with Wi-Fi, Bluetooth, 360 degree sound, multi-room streaming, Alexa built-in.",Amazon Echo Studio
+Gaming Console,499,"Next generation gaming console with 4K gaming at 120fps, 8K support, 512GB NVMe SSD.",Xbox Series S
+
+Desktop,1249,"Gaming desktop with RTX 3070, Core i7 CPU, 16GB DDR4 RAM, 1TB SSD, liquid CPU cooler.",CLX Set Gaming PC
+Router,199,"Tri-band whole home mesh WiFi system, simple setup and management, parental controls.",Google Nest Wifi 
+Dash Cam,99,"1080p front and rear dash cam with night vision, GPS tracking, incident detection alerts.",Rexing V1P
+3D Printer,349,"Enclosed 3D printer for ABS/PLA filament, heated bed, touchscreen controls, WiFi connectivity.",FlashForge Adventurer 4
+Security Camera,59,"Outdoor security camera with 1080p video, night vision, motion alerts, 2-way audio.",Blink Outdoor 
+Streaming Device,49,"4K HDR streaming media player with Dolby Vision/Atmos, Alexa voice remote.",Amazon Fire TV Stick 4K
+Microphone,149,"Condenser USB microphone for vocals, podcasting with onboard audio controls, desk stand.",Blue Yeti
+Projector,499,"1080p portable mini projector with 200 lumens brightness, built-in rechargeable battery.",Anker Nebula Capsule II
+Power Station,299,"300W/100Ah compact lithium battery power station for charging laptops, phones, camping.",Jackery Portable Power Station Explorer 300
+Vacuum,499,"Cordless vacuum with laser smart mapping, self-empty charging base, HEPA filtration.",iRobot Roomba i7+
+Chair,299,"Ergonomic mesh office chair with lumbar support, adjustable armrests, tilt tension control.",Herman Miller Sayl Chair  
+Coffee Maker,89,"Single serve coffee maker with adjustable cup sizes, strength control, removable reservoir.",Keurig K-Mini
+Air Fryer,129,"5.3 qt. digital touchscreen air fryer with dishwasher safe basket, 8 cooking presets.", Ninja AF101
+Espresso Machine,599,"Fully automatic espresso machine with built-in grinder, milk frother, brew strength control.",Philips 3200 Series 
+Stand Mixer,279,"Tilt-head stand mixer with 10 speed settings, dishwasher safe bowl/beater, built-in LED light ring.",KitchenAid Artisan
+Rice Cooker,99,"10-Cup programmable rice cooker and steamer with delay start, keep warm function, nonstick pot.",Aroma Housewares 
+Meat Thermometer,99,"Instant read digital meat thermometer with foldable probe, large display, magnet, backlight.",ThermoPop
+Food Processor,139,"9-Cup food processor with 5.5 cup work bowl, stainless steel blades, 2 speed settings + pulse.",Cuisinart DFP-14BCNY
+Pressure Cooker,89,"Electric 6-quart pressure cooker with 14 smart programs, nonstick inner pot, safety lid.",Instant Pot Duo60
+Food Scale,24.99,"Digital kitchen food scale with 11lb capacity, unit conversion, tare and auto-off functions.", Ozeri Pronto
+Knife Set,139,"Self-sharpening block set with 8 steak knives, all-purpose household shears, Acacia block.",Bodum Black Self-Sharpening Knife Block Set
+Pizza Oven,299,"Outdoor countertop propane gas pizza oven, reaches 900°F, includes pizza peel and cutter.",Camp Chef Italia Artisan
+Refrigerator,1099,"Counter depth french door fridge with bottom freezer drawer, external ice/water dispenser.",LG LRFXC2416S
+Washer,649,"Front load washing machine with built-in sink, UltraFresh ventilation, SenseClean system.",LG WM9000HVA 
+Dryer,649,"Matching front load electric dryer with SenseDry moisture sensor, EcoHybrid technology.",LG DLEX9000V 
+Microwave,179,"Countertop microwave with 1.1 cu.ft. capacity, 10 power levels, mute function, child safety lock.",Toshiba EM131A5C
+Water Filter,42,"Under sink water filtration system, reduces particulates, lead, chlorine taste and odor.",APEC Top Tier Supreme Certified
+Indoor Grill,199,"1560W electric indoor grill with adjustable temperature control, nonstick cooking plates.",T-fal OptiGrill XL  
+Juicer,99,"Cold press juicer extracts maximum vitamins and minerals, juices leafy greens, fruits, veggies.",Mueller Austria Juicer Ultra 
+Toaster,59,"2-slice extra-wide slot toaster with 6 shade settings, reheat, defrost, cancel functions.", T-fal Extra-Wide Slot Toaster
+Tea Kettle,29,"Fast boiling electric kettle with 1.7 liter capacity, concealed heating element, auto shut-off.",Cuisinart PerfecTemp Cordless
+Hand Blender,34,"3-in-1 immersion hand blender with whisk, milk frother attachments, 2-speed with turbo.",Mueller Ultra-Stick 9
+Egg Cooker,17,"Electric egg cooker for up to 7 eggs, poaching tray, omelette bowl, piercing pin, measuring cup.",Dash Deluxe
+Bread Maker,99,"Programmable bread making machine for 2lb loaves, 12 settings including gluten free.",Hamilton Beach 2lb Digital Breadmaker  
+Waffle Maker,52,"4-slice Belgian waffle maker with adjustable temp, nonstick plates, browning control, indicator lights.",Dash No Drip
+Pressure Cooker,64,"6-quart multi-use programmable electric pressure cooker, rice cooker, slow cooker, yogurt maker.",Instant Pot Duo Plus
+Air Fryer,129,"10 quart digital air fryer oven, rotisserie, dehydrate, toast, bake, broil, keep warm functions.",Chefman 26qt
+Coffee Grinder,19,"Electric coffee grinder for consistent grounds, removable grinding cup, stainless steel blades.",Hamilton Beach Fresh Grind
+Ice Cream Maker,69,"Fully automatic ice cream maker, add ingredients, preset programs do the rest.",Cuisinart Frozen Yogurt-Ice Cream Maker
+Food Dehydrator,59,"5 tray food dehydrator with adjustable thermostat, auto shutoff, BPA free trays.",Nesco FD-75PR 
+Meat Grinder,162,"Commercial grade electric meat grinder, all metal construction, reverse function, 3 grinding plates.",STX Turboforce Classic 3000  
+Wine Fridge,179,"Thermoelectric 15-bottle wine cooler with touch controls, freestanding or built-in installation.",Kalamera 15'' Wine Cooler
+Portable Fridge,36,"4 liter/6 can mini fridge, thermoelectric cooling, adjustable temperature, AC/DC power.",Cooluli Classic
+
+Ice Maker,188,"Built-in ice maker up to 50 lbs of crescent ice per day, 25 lb. reservoir, electronic controls.",Scotsman CU50GA-1A
+Toaster Oven,149,"Digital toaster oven with convection, 9 cooking functions, auto-slide out crumb tray.",Cuisinart Chef's Convection Toaster Oven
+Pressure Cooker,79,"6-Qt multi-use electric pressure cooker with 14 built-in smart programs.",Instant Pot Duo Nova
+Coffee Maker,599,"Fully automatic built-in coffee and espresso machine, touchscreen, milk frother.",Saeco Incanto Carafe
+Microwave,399,"Over the range microwave oven with convection cooking, 1.9 cu. ft. capacity.",LG LMV2031ST 
+
+Dishwasher,849,"Built-in dishwasher with flexible 3rd rack, quiet operation, sanitize wash, auto open.",Miele G 7000 Series Dishwasher
+Oven,3999,"30 Inch Combination Double Wall Oven with 4.6 cu. ft. capacity, convection baking.",Miele H7160BP
+Cooktop,1599,"36 Inch All Gas Cooktop with 5 Sealed Burners up to 18k BTU and Downdraft Ventilation.",Miele KM6321FR
+
+Wine Cooler,2299,"Built-in Dual Zone 46 Bottle Wine Cooler, Capacity for 46 Bordeaux Style Bottles.",Marvel ML24REM
+Washer,1199,"Front Load Smart Washer, 5.2 cu. ft., Atomically Clean, UltraFresh Vent System.",LG SIGNATURE WM9500HKA
+Thermostat,249,"Smart Thermostat with Smart Humidifier Control, Works With Alexa",Ecobee SmartThermostat with Voice Control
+Security System,199,"Smart Home Alarm System with Camera, 24/7 Professional Monitoring",Ring Alarm 8 piece kit (2nd gen) 
+Video Doorbell,99,"Smart WiFi Video Doorbell, HD Video, Motion Activated Alerts, Easy Installation",Ring Video Doorbell Wired
+Smoke Detector,89,"Smart Smoke and Carbon Monoxide Detector with 10-Year Battery",Nest Protect 2nd Generation
+Door Lock,164,"Smart Lock, Keyless Entry with Fingerprint ID and Auto-Lock",Yale Assure Lock with Z-Wave
+
+
+Pool Cleaner,1099,"Automatic Pool Cleaner, Scrubs Floor, Walls and Waterline",Dolphin Premier Robotic Pool Cleaner
+Sauna Heater,1295,"4.5 kW Sauna Heater, Built-in Controls & LED Lighting for Residential Saunas",HELO H11XL
+Bathtub,649,"Whirlpool Bathtub, Air Massage, Easy Clean Jets",American Standard 2461.008
+Toilet,347,"One Piece Smart Toilet, Dual Flush, Heated Seat, Auto Open and Close Lid",Toto Neorest 550H
